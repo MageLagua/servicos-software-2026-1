@@ -14,3 +14,9 @@ Vamos criar uma pasta para cada container:
 
 Os conteúdos serão desenvolvidos durante a aula e ficarão disponibilizados em nosso repositório github.
 
+Dentro do primeiro container, iremos criar os seguintes arquivos:
+
+- Dockerfile
+- app.py
+- requirements.txt
+
